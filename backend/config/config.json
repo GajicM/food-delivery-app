@@ -1,0 +1,28 @@
+
+{
+  "development": {
+    "username": "v3p0ft2qdci5o66m",
+    "password": "qlylpzaep7o3jlfb",
+    "database": "ep9upyd7k3iz8n18",
+    "host": "f80b6byii2vwv8cx.chr7pe7iynqr.eu-west-1.rds.amazonaws.com",
+    "dialect": "mariadb",
+    "port":3306
+  },
+  "test": {
+    "username": "v3p0ft2qdci5o66m",
+    "password": "qlylpzaep7o3jlfb",
+    "database": "ep9upyd7k3iz8n18",
+    "host": "f80b6byii2vwv8cx.chr7pe7iynqr.eu-west-1.rds.amazonaws.com",
+    "dialect": "mariadb",
+    "port":3306
+  },
+  "production": {
+    "username": "v3p0ft2qdci5o66m",
+    "password": "qlylpzaep7o3jlfb",
+    "database": "ep9upyd7k3iz8n18",
+    "host": "f80b6byii2vwv8cx.chr7pe7iynqr.eu-west-1.rds.amazonaws.com",
+    "dialect": "mariadb",
+    "port":3306
+    
+  }
+}
